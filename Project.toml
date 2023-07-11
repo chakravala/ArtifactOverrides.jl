@@ -1,0 +1,13 @@
+name = "ArtifactOverrides"
+uuid = "26736a7f-02bb-45c4-b375-980ff81a7c31"
+authors = ["Michael Reed"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
