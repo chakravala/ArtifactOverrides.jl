@@ -1,7 +1,7 @@
 name = "ArtifactOverrides"
 uuid = "26736a7f-02bb-45c4-b375-980ff81a7c31"
 authors = ["Michael Reed"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1"

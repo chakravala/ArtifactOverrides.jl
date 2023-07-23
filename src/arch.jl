@@ -2,6 +2,7 @@
 pkgs = [
     "6e34b625-4abd-537c-b88f-471c36dfa7a0"=>"Bzip2",
     "83423d85-b0ee-5818-9007-b63ccbeb887a"=>"Cairo",
+    "96374032-68de-5a5b-8d9e-752f78720389"=>"CRlibm",
     #"5ae413db-bbd1-5e63-b57d-d24a61df00f5"=>"EarCut",
     "2e619515-83b5-522b-bb60-26c02a35a201"=>"Expat",
     #"b22a6f82-2f65-5046-a5b2-351ab43fb4e5"=>"FFMPEG",
